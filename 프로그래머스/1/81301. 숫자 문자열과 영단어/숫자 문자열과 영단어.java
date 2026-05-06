@@ -5,7 +5,7 @@ class Solution {
         String[] words = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
         for(int i = 0; i < words.length; i++){
             //valueOf를 잘기.
-            s = s.replaceAll(words[i], String.valueOf(i));
+            s = s.replaceAll(words[i], Integer.toString(i));
         }
 
         return Integer.parseInt(s);
