@@ -5,12 +5,13 @@ class Solution {
         ArrayList<Integer>answer = new ArrayList<>();
         //장르별 총 재생횟수 <장르, 재생횟수>
         Map<String, Integer> genreTotal = new HashMap<>();
-        //고유번호와 재생횟수
+        //장르별 고유번호 및 재생횟수
         Map<String, List<Integer>> genreSong = new HashMap<>();
         
         //Map.put
         for(int i = 0; i < genres.length; i++){
             genreTotal.put(genres[i], genreTotal.getOrDefault(genres[i], 0) + plays[i]);
+            //만약 없다면 넣어라
             genreSong.putIfAbsent(genres[i], new ArrayList<>());
             genreSong.get(genres[i]).add(i);
         }
