@@ -5,7 +5,7 @@ class Solution {
         //1단계 toLowerCase()로 모두 소문자로 전환
         String answer = new_id.toLowerCase();
         
-        //2단계 !,@,#,* 제거
+        //2단계 알파벳 소문자, 숫자, 빼기(-), 밑줄(_), 마침표(.)를 제외한 모든 문자를 제거
         answer = answer.replaceAll("[^-_.a-z0-9]", "");
         
         //3단계 마침표 2번 이상 연속된 부분 하나의 마침표 전환
