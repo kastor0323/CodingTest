@@ -1,23 +1,25 @@
-import java.util.HashMap;
+import java.util.*;
 
 class Solution {
+    /*
+    목적 : 한 번호가 다른 번호에 시작번호인가? 아니면 true 맞으면 false 반환해라
+    HashMap에 번호를 집어넣고 이중 for문 써서 체크
+    시간복잡도 : O(n^2)
+    */
+    
     public boolean solution(String[] phone_book) {
-        // 1. 모든 전화번호를 해시맵에 담는다.
-        HashMap<String, Integer> map = new HashMap<>();
-        for (String number : phone_book) {
-            map.put(number, 1);
+        boolean answer = true;
+        Map<String, Integer> phoneMap = new HashMap<>();
+        for(int i = 0; i < phone_book.length; i++){
+            phoneMap.put(phone_book[i], i);
         }
-
-        // 2. 다시 모든 번호를 꺼내어 접두사가 존재하는지 확인한다.
-        for (String number : phone_book) {
-            for (int i = 1; i < number.length(); i++) {
-                // 번호를 한 글자씩 잘라가며(substring) 해시맵에 있는지 체크
-                if (map.containsKey(number.substring(0, i))) {
-                    return false; // 접두사가 존재하면 즉시 종료
-                }
+        
+        for(int i = 0; i < phone_book.length; i++){
+            for(int j = 0; j < phone_book[i].length(); j++){
+                if(phoneMap.containsKey(phone_book[i].substring(0,j)))
+                    answer = false;
             }
         }
-
-        return true;
+        return answer;
     }
 }
