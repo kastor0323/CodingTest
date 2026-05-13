@@ -1,4 +1,8 @@
 import java.util.*;
+/*
+BFS방식
+Queue를 통해 키를 꺼내서 찾고 찾은 키를 Queue에 add
+*/
 
 class Solution {
     public boolean canVisitAllRooms(List<List<Integer>> rooms) {
