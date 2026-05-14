@@ -5,10 +5,13 @@
 */
 
 class Solution {
+    int rows;
+    int cols;
+
     public int numIslands(char[][] grid) {
         int count = 0;
-        int rows = grid.length;
-        int cols = grid[0].length;
+        rows = grid.length;
+        cols = grid[0].length;
 
         for(int i = 0; i < rows; i++){
             for(int j = 0; j < cols; j++){
@@ -22,8 +25,8 @@ class Solution {
     }
 
     private void dfs(char[][] grid, int r, int c){
-        int rows = grid.length;
-        int cols = grid[0].length;
+        rows = grid.length;
+        cols = grid[0].length;
 
         if(r < 0 || c < 0 || r >= rows || c >= cols || grid[r][c] == '0'){
             return;
