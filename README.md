@@ -8,6 +8,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0001-two-sum](https://github.com/kastor0323/CodingTest/tree/master/0001-two-sum) |
 | [0200-number-of-islands](https://github.com/kastor0323/CodingTest/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/kastor0323/CodingTest/tree/master/0322-coin-change) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kastor0323/CodingTest/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kastor0323/CodingTest/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/kastor0323/CodingTest/tree/master/0322-coin-change) |
 | [0841-keys-and-rooms](https://github.com/kastor0323/CodingTest/tree/master/0841-keys-and-rooms) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kastor0323/CodingTest/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Graph Theory
@@ -37,4 +39,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0200-number-of-islands](https://github.com/kastor0323/CodingTest/tree/master/0200-number-of-islands) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kastor0323/CodingTest/tree/master/1091-shortest-path-in-binary-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/kastor0323/CodingTest/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
