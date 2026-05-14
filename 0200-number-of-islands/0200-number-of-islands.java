@@ -25,8 +25,6 @@ class Solution {
     }
 
     private void dfs(char[][] grid, int r, int c){
-        rows = grid.length;
-        cols = grid[0].length;
 
         if(r < 0 || c < 0 || r >= rows || c >= cols || grid[r][c] == '0'){
             return;
