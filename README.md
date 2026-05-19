@@ -18,11 +18,13 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kastor0323/CodingTest/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/kastor0323/CodingTest/tree/master/0200-number-of-islands) |
 | [0841-keys-and-rooms](https://github.com/kastor0323/CodingTest/tree/master/0841-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kastor0323/CodingTest/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/kastor0323/CodingTest/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/kastor0323/CodingTest/tree/master/0322-coin-change) |
 | [0841-keys-and-rooms](https://github.com/kastor0323/CodingTest/tree/master/0841-keys-and-rooms) |
@@ -56,4 +58,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0046-permutations](https://github.com/kastor0323/CodingTest/tree/master/0046-permutations) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kastor0323/CodingTest/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kastor0323/CodingTest/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
