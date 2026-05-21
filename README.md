@@ -8,6 +8,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0001-two-sum](https://github.com/kastor0323/CodingTest/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/kastor0323/CodingTest/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/kastor0323/CodingTest/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/kastor0323/CodingTest/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/kastor0323/CodingTest/tree/master/0322-coin-change) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kastor0323/CodingTest/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -18,6 +19,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kastor0323/CodingTest/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kastor0323/CodingTest/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/kastor0323/CodingTest/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kastor0323/CodingTest/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -41,6 +43,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kastor0323/CodingTest/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/kastor0323/CodingTest/tree/master/0200-number-of-islands) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kastor0323/CodingTest/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Dynamic Programming
@@ -51,6 +54,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kastor0323/CodingTest/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/kastor0323/CodingTest/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -60,6 +64,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0046-permutations](https://github.com/kastor0323/CodingTest/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/kastor0323/CodingTest/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/kastor0323/CodingTest/tree/master/0079-word-search) |
 ## Tree
 |  |
 | ------- |
