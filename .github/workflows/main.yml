@@ -1,9 +1,9 @@
-name: dispatch-workflow
+name: dispatch_action
 
 on:
  push:
    branches:
-     - main
+     - master
 
 jobs:
  dispatch:
@@ -13,5 +13,5 @@ jobs:
        uses: peter-evans/repository-dispatch@v1
        with:
          token: ${{ secrets.GH_PAT }}
-         repository: kastor0323/github-programmers-rank
+         repository: kastor0323/programmers-badge
          event-type: trigger-workflow
